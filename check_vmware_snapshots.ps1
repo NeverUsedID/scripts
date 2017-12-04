@@ -2,6 +2,8 @@
 #Status: working, but not every combination is tested in depth.
 #Use "-help" to get help
 
+#Based on https://github.com/knerhood/scripts
+
 
 
 param ( [string] $Hostname = "",
